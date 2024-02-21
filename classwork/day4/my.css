@@ -1,0 +1,13 @@
+p,h1{
+    color: blueviolet;
+}
+.heading{
+    color: aquamarine;
+}
+/* .class
+#id   */
+#unq_1{
+    background-color: bisque;
+    font-size: large;
+    margin: 50px 23px 400px 150px;
+}

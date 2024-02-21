@@ -1,0 +1,38 @@
+/* body{
+    background-color: #de4542;
+} */
+*{
+    background-color: yellow;
+}
+
+/* class selector  (.class_name )*/
+.one{
+    color:cadetblue;
+    font-size: 40px;
+}
+
+/* Id selector (#..)
+id should be unique */
+#two{
+    background-color: #af3348;
+}
+
+/* Group selector */
+#two,ol{
+    font-size: 50px;
+    color:aliceblue;
+    background-color: black;
+}
+.border{
+    border: 2px solid red;
+    /* margin=outer space, padding=innerspace */
+    margin: 20px;
+    padding: 30px;
+}
+
+/* h1{
+    color: #db2e2e;
+}
+p{
+    color: #2dc7c7;
+} */
